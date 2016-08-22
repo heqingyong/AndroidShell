@@ -21,5 +21,8 @@
 10.生成签名的壳程序，AndroidProtectionShell_signed.apk
 
 相关博客：http://blog.csdn.net/yongaini10/article/details/52275788
+
+
 参考：http://blog.csdn.net/androidsecurity/article/details/8678399
+
       https://github.com/longtaoge/AndroidShell
