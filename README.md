@@ -1,4 +1,5 @@
 # AndroidShell
+其中两个android源程序对应的android studio版本为https://github.com/heqingyong/AndroidProtectionDemo，https://github.com/heqingyong/AndroidProtectionShell
 
 1.编辑被加壳程序，编译生成AndroidProtectionDemo.apk文件
 
